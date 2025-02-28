@@ -42,7 +42,7 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
 </h3>
 
-- Get your [Necessary Variables](https://github.com/maythushar-music/CaiLinXMusic/blob/master/sample.env)
+- Get your [Necessary Variables](https://github.com/sasuke-music-v1/CaiLinXMusic/blob/master/sample.env)
 ---
 
 ### 🔧 Quick Setup
